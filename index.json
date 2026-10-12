@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "sqlmodel",
+  "versions": [
+    {
+      "commit": "5ce1a472488734363b2ab36f8ce2bcc773e4593e",
+      "tag": "0.0.48",
+      "parsed_at": "2026-10-12T20:25:14.173404+00:00"
+    }
+  ]
+}
