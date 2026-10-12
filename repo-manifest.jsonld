@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/sqlmodel/commit/5ce1a472488734363b2ab36f8ce2bcc773e4593e",
       "git:hexsha": "5ce1a472488734363b2ab36f8ce2bcc773e4593e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.0.48"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.0.48",
+      "repolex:parsedAt": "2026-10-12T20:25:14.172820+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/sqlmodel/commit/e4e1385eedc700ad8c4e079841a85c32a29f1cff",
